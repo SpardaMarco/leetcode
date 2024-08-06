@@ -1,0 +1,36 @@
+name: Build README
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v4
+
+    - name: Set up Git
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+#    - name: Make buildREADME.sh executable
+#      run: chmod +x ./buildREADME.sh
+
+    - name: Run buildREADME.sh script
+      run: ./buildREADME.sh
+
+    - name: Commit README changes
+      run: |
+        git add README.md
+        git commit -m "Update README [skip ci]"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
