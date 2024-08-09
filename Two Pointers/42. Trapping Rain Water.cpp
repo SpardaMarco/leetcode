@@ -13,21 +13,21 @@ public:
         }
 
         int l = 0, r = height.size() - 1;
-        int leftMax = height[l], rightMax = height[r];
+        int left_max = height[l], right_max = height[r];
         int res = 0;
         while (l < r)
         {
-            if (leftMax < rightMax)
+            if (left_max < right_max)
             {
                 l++;
-                leftMax = max(leftMax, height[l]);
-                res += leftMax - height[l];
+                left_max = max(left_max, height[l]);
+                res += left_max - height[l];
             }
             else
             {
                 r--;
-                rightMax = max(rightMax, height[r]);
-                res += rightMax - height[r];
+                right_max = max(right_max, height[r]);
+                res += right_max - height[r];
             }
         }
         return res;
