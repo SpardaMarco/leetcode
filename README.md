@@ -4,6 +4,7 @@
 
 - [Array and Hashing](#array-and-hashing)
 - [Stacks](#stacks)
+- [Two Pointers](#two-pointers)
 
 ## Array and Hashing
 - [1. Two Sum](/Array%20and%20Hashing/1.%20Two%20Sum.cpp)
@@ -24,5 +25,10 @@
 - [739. Daily Temperatures](/Stacks/739.%20Daily%20Temperatures.cpp)
 - [84. Largest Rectangle in Histogram](/Stacks/84.%20Largest%20Rectangle%20in%20Histogram.cpp)
 - [853. Car Fleet](/Stacks/853.%20Car%20Fleet.cpp)
+
+## Two Pointers
+- [125. Valid Palindrome](/Two%20Pointers/125.%20Valid%20Palindrome.cpp)
+- [15. 3Sum](/Two%20Pointers/15.%203Sum.cpp)
+- [167. Two Sum II - Input Array Is Sorted](/Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)
 
 
