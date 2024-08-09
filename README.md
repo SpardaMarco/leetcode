@@ -27,8 +27,10 @@
 - [853. Car Fleet](/Stacks/853.%20Car%20Fleet.cpp)
 
 ## Two Pointers
+- [11. Container With Most Water](/Two%20Pointers/11.%20Container%20With%20Most%20Water.cpp)
 - [125. Valid Palindrome](/Two%20Pointers/125.%20Valid%20Palindrome.cpp)
 - [15. 3Sum](/Two%20Pointers/15.%203Sum.cpp)
 - [167. Two Sum II - Input Array Is Sorted](/Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)
+- [42. Trapping Rain Water](/Two%20Pointers/42.%20Trapping%20Rain%20Water.cpp)
 
 
