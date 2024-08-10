@@ -3,6 +3,7 @@
 ## Indice
 
 - [Array and Hashing](#array-and-hashing)
+- [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
 - [Stacks](#stacks)
 - [Two Pointers](#two-pointers)
@@ -18,11 +19,18 @@
 - [36. Valid Sudoku](/Array%20and%20Hashing/36.%20Valid%20Sudoku.cpp)
 - [49. Group Anagrams](/Array%20and%20Hashing/49.%20Group%20Anagrams.cpp)
 
+## Linked List
+- [143. Reorder List](/Linked%20List/143.%20Reorder%20List.cpp)
+- [206. Reverse Linked List](/Linked%20List/206.%20Reverse%20Linked%20List.cpp)
+- [21. Merge Two Sorted Lists](/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.cpp)
+
 ## Sliding Window
 - [121. Best Time to Buy and Sell Stock](/Sliding%20Window/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
+- [239. Sliding Window Maximum](/Sliding%20Window/239.%20Sliding%20Window%20Maximum.cpp)
 - [3. Longest Substring Without Repeating Characters](/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)
 - [424. Longest Repeating Character Replacement](/Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.cpp)
 - [567. Permutation in String](/Sliding%20Window/567.%20Permutation%20in%20String.cpp)
+- [76. Minimum Window Substring](/Sliding%20Window/76.%20Minimum%20Window%20Substring.cpp)
 
 ## Stacks
 - [150. Evaluate Reverse Polish Notation](/Stacks/150.%20Evaluate%20Reverse%20Polish%20Notation.cpp)
