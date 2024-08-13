@@ -3,6 +3,7 @@
 ## Indice
 
 - [Array and Hashing](#array-and-hashing)
+- [Binary Search](#binary-search)
 - [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
 - [Stacks](#stacks)
@@ -19,10 +20,22 @@
 - [36. Valid Sudoku](/Array%20and%20Hashing/36.%20Valid%20Sudoku.cpp)
 - [49. Group Anagrams](/Array%20and%20Hashing/49.%20Group%20Anagrams.cpp)
 
+## Binary Search
+- [704. Binary Search](/Binary%20Search/704.%20Binary%20Search.cpp)
+- [74. Search a 2D Matrix](/Binary%20Search/74.%20Search%20a%202D%20Matrix.cpp)
+
 ## Linked List
+- [138. Copy List with Random Pointer](/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.cpp)
+- [141. Linked List Cycle](/Linked%20List/141.%20Linked%20List%20Cycle.cpp)
 - [143. Reorder List](/Linked%20List/143.%20Reorder%20List.cpp)
+- [146. LRU Cache](/Linked%20List/146.%20LRU%20Cache.cpp)
+- [19. Remove Nth Node From End of List](/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp)
+- [2. Add Two Numbers](/Linked%20List/2.%20Add%20Two%20Numbers.cpp)
 - [206. Reverse Linked List](/Linked%20List/206.%20Reverse%20Linked%20List.cpp)
 - [21. Merge Two Sorted Lists](/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.cpp)
+- [23. Merge k Sorted Lists](/Linked%20List/23.%20Merge%20k%20Sorted%20Lists.cpp)
+- [25. Reverse Nodes in k-Group](/Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group.cpp)
+- [287. Find the Duplicate Number](/Linked%20List/287.%20Find%20the%20Duplicate%20Number.cpp)
 
 ## Sliding Window
 - [121. Best Time to Buy and Sell Stock](/Sliding%20Window/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
