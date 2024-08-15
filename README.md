@@ -21,8 +21,13 @@
 - [49. Group Anagrams](/Array%20and%20Hashing/49.%20Group%20Anagrams.cpp)
 
 ## Binary Search
+- [153. Find Minimum in Rotated Sorted Array](/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)
+- [33. Search in Rotated Sorted Array](/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)
+- [4. Median of Two Sorted Arrays](/Binary%20Search/4.%20Median%20of%20Two%20Sorted%20Arrays.cpp)
 - [704. Binary Search](/Binary%20Search/704.%20Binary%20Search.cpp)
 - [74. Search a 2D Matrix](/Binary%20Search/74.%20Search%20a%202D%20Matrix.cpp)
+- [875. Koko Eating Bananas](/Binary%20Search/875.%20Koko%20Eating%20Bananas.cpp)
+- [981. Time Based Key-Value Store](/Binary%20Search/981.%20Time%20Based%20Key-Value%20Store.cpp)
 
 ## Linked List
 - [138. Copy List with Random Pointer](/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.cpp)
