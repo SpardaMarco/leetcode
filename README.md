@@ -7,6 +7,7 @@
 - [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
 - [Stacks](#stacks)
+- [Trees](#trees)
 - [Two Pointers](#two-pointers)
 
 ## Array and Hashing
@@ -58,6 +59,23 @@
 - [739. Daily Temperatures](/Stacks/739.%20Daily%20Temperatures.cpp)
 - [84. Largest Rectangle in Histogram](/Stacks/84.%20Largest%20Rectangle%20in%20Histogram.cpp)
 - [853. Car Fleet](/Stacks/853.%20Car%20Fleet.cpp)
+
+## Trees
+- [100. Same Tree](/Trees/100.%20Same%20Tree.cpp)
+- [102. Binary Tree Level Order Traversal](/Trees/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)
+- [104. Maximum Depth of Binary Tree](/Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](/Trees/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)
+- [110. Balanced Binary Tree](/Trees/110.%20Balanced%20Binary%20Tree.cpp)
+- [124. Binary Tree Maximum Path Sum](/Trees/124.%20Binary%20Tree%20Maximum%20Path%20Sum.cpp)
+- [1448. Count Good Nodes in Binary Tree](/Trees/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)
+- [199. Binary Tree Right Side View](/Trees/199.%20Binary%20Tree%20Right%20Side%20View.cpp)
+- [226. Invert Binary Tree](/Trees/226.%20Invert%20Binary%20Tree.cpp)
+- [230. Kth Smallest Element in a BST](/Trees/230.%20Kth%20Smallest%20Element%20in%20a%20BST.cpp)
+- [235. Lowest Common Ancestor of a Binary Search Tree](/Trees/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp)
+- [297. Serialize and Deserialize Binary Tree](/Trees/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.cpp)
+- [543. Diameter of Binary Tree](/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp)
+- [572. Subtree of Another Tree](/Trees/572.%20Subtree%20of%20Another%20Tree.cpp)
+- [98. Validate Binary Search Tree](/Trees/98.%20Validate%20Binary%20Search%20Tree.cpp)
 
 ## Two Pointers
 - [11. Container With Most Water](/Two%20Pointers/11.%20Container%20With%20Most%20Water.cpp)
