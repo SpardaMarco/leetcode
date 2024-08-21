@@ -3,11 +3,14 @@
 ## Indice
 
 - [Array and Hashing](#array-and-hashing)
+- [Backtracking](#backtracking)
 - [Binary Search](#binary-search)
+- [Heap and Priority Queue](#heap-and-priority-queue)
 - [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
 - [Stacks](#stacks)
 - [Trees](#trees)
+- [Tries](#tries)
 - [Two Pointers](#two-pointers)
 
 ## Array and Hashing
@@ -21,6 +24,17 @@
 - [36. Valid Sudoku](/Array%20and%20Hashing/36.%20Valid%20Sudoku.cpp)
 - [49. Group Anagrams](/Array%20and%20Hashing/49.%20Group%20Anagrams.cpp)
 
+## Backtracking
+- [131. Palindrome Partitioning](/Backtracking/131.%20Palindrome%20Partitioning.cpp)
+- [17. Letter Combinations of a Phone Number](/Backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
+- [39. Combination Sum](/Backtracking/39.%20Combination%20Sum.cpp)
+- [40. Combination Sum II](/Backtracking/40.%20Combination%20Sum%20II.cpp)
+- [46. Permutations](/Backtracking/46.%20Permutations.cpp)
+- [51. N-Queens](/Backtracking/51.%20N-Queens.cpp)
+- [78. Subsets](/Backtracking/78.%20Subsets.cpp)
+- [79. Word Search](/Backtracking/79.%20Word%20Search.cpp)
+- [90. Subsets II](/Backtracking/90.%20Subsets%20II.cpp)
+
 ## Binary Search
 - [153. Find Minimum in Rotated Sorted Array](/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)
 - [33. Search in Rotated Sorted Array](/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)
@@ -29,6 +43,15 @@
 - [74. Search a 2D Matrix](/Binary%20Search/74.%20Search%20a%202D%20Matrix.cpp)
 - [875. Koko Eating Bananas](/Binary%20Search/875.%20Koko%20Eating%20Bananas.cpp)
 - [981. Time Based Key-Value Store](/Binary%20Search/981.%20Time%20Based%20Key-Value%20Store.cpp)
+
+## Heap and Priority Queue
+- [1046. Last Stone Weight](/Heap%20and%20Priority%20Queue/1046.%20Last%20Stone%20Weight.cpp)
+- [215. Kth Largest Element in an Array](/Heap%20and%20Priority%20Queue/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)
+- [295. Find Median from Data Stream](/Heap%20and%20Priority%20Queue/295.%20Find%20Median%20from%20Data%20Stream.cpp)
+- [355. Design Twitter](/Heap%20and%20Priority%20Queue/355.%20Design%20Twitter.cpp)
+- [621. Task Scheduler](/Heap%20and%20Priority%20Queue/621.%20Task%20Scheduler.cpp)
+- [703. Kth Largest Element in a Stream](/Heap%20and%20Priority%20Queue/703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp)
+- [973. K Closest Points to Origin](/Heap%20and%20Priority%20Queue/973.%20K%20Closest%20Points%20to%20Origin.cpp)
 
 ## Linked List
 - [138. Copy List with Random Pointer](/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.cpp)
@@ -76,6 +99,11 @@
 - [543. Diameter of Binary Tree](/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp)
 - [572. Subtree of Another Tree](/Trees/572.%20Subtree%20of%20Another%20Tree.cpp)
 - [98. Validate Binary Search Tree](/Trees/98.%20Validate%20Binary%20Search%20Tree.cpp)
+
+## Tries
+- [208. Implement Trie (Prefix Tree)](/Tries/208.%20Implement%20Trie%20(Prefix%20Tree).cpp)
+- [211. Design Add and Search Words Data Structure](/Tries/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp)
+- [212. Word Search II](/Tries/212.%20Word%20Search%20II.cpp)
 
 ## Two Pointers
 - [11. Container With Most Water](/Two%20Pointers/11.%20Container%20With%20Most%20Water.cpp)
