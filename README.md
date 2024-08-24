@@ -2,9 +2,11 @@
 
 ## Indice
 
+- [1-D Dynamic Programming](#1-d-dynamic-programming)
 - [Array and Hashing](#array-and-hashing)
 - [Backtracking](#backtracking)
 - [Binary Search](#binary-search)
+- [Graphs](#graphs)
 - [Heap and Priority Queue](#heap-and-priority-queue)
 - [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
@@ -12,6 +14,20 @@
 - [Trees](#trees)
 - [Tries](#tries)
 - [Two Pointers](#two-pointers)
+
+## 1-D Dynamic Programming
+- [139. Word Break](/1-D%20Dynamic%20Programming/139.%20Word%20Break.cpp)
+- [152. Maximum Product Subarray](/1-D%20Dynamic%20Programming/152.%20Maximum%20Product%20Subarray.cpp)
+- [198. House Robber](/1-D%20Dynamic%20Programming/198.%20House%20Robber.cpp)
+- [213. House Robber II](/1-D%20Dynamic%20Programming/213.%20House%20Robber%20II.cpp)
+- [300. Longest Increasing Subsequence](/1-D%20Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence.cpp)
+- [322. Coin Change](/1-D%20Dynamic%20Programming/322.%20Coin%20Change.cpp)
+- [416. Partition Equal Subset Sum](/1-D%20Dynamic%20Programming/416.%20Partition%20Equal%20Subset%20Sum.cpp)
+- [5. Longest Palindromic Substring](/1-D%20Dynamic%20Programming/5.%20Longest%20Palindromic%20Substring.cpp)
+- [647. Palindromic Substrings](/1-D%20Dynamic%20Programming/647.%20Palindromic%20Substrings.cpp)
+- [70. Climbing Stairs](/1-D%20Dynamic%20Programming/70.%20Climbing%20Stairs.cpp)
+- [746. Min Cost Climbing Stairs](/1-D%20Dynamic%20Programming/746.%20Min%20Cost%20Climbing%20Stairs.cpp)
+- [91. Decode Ways](/1-D%20Dynamic%20Programming/91.%20Decode%20Ways.cpp)
 
 ## Array and Hashing
 - [1. Two Sum](/Array%20and%20Hashing/1.%20Two%20Sum.cpp)
@@ -43,6 +59,9 @@
 - [74. Search a 2D Matrix](/Binary%20Search/74.%20Search%20a%202D%20Matrix.cpp)
 - [875. Koko Eating Bananas](/Binary%20Search/875.%20Koko%20Eating%20Bananas.cpp)
 - [981. Time Based Key-Value Store](/Binary%20Search/981.%20Time%20Based%20Key-Value%20Store.cpp)
+
+## Graphs
+- [200. Number of Islands](/Graphs/200.%20Number%20of%20Islands.cpp)
 
 ## Heap and Priority Queue
 - [1046. Last Stone Weight](/Heap%20and%20Priority%20Queue/1046.%20Last%20Stone%20Weight.cpp)
