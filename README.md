@@ -6,6 +6,7 @@
 - [Array and Hashing](#array-and-hashing)
 - [Backtracking](#backtracking)
 - [Binary Search](#binary-search)
+- [Bit Manipulation](#bit-manipulation)
 - [Graphs](#graphs)
 - [Heap and Priority Queue](#heap-and-priority-queue)
 - [Linked List](#linked-list)
@@ -59,6 +60,15 @@
 - [74. Search a 2D Matrix](/Binary%20Search/74.%20Search%20a%202D%20Matrix.cpp)
 - [875. Koko Eating Bananas](/Binary%20Search/875.%20Koko%20Eating%20Bananas.cpp)
 - [981. Time Based Key-Value Store](/Binary%20Search/981.%20Time%20Based%20Key-Value%20Store.cpp)
+
+## Bit Manipulation
+- [136. Single Number](/Bit%20Manipulation/136.%20Single%20Number.cpp)
+- [190. Reverse Bits](/Bit%20Manipulation/190.%20Reverse%20Bits.cpp)
+- [191. Number of 1 Bits](/Bit%20Manipulation/191.%20Number%20of%201%20Bits.cpp)
+- [268. Missing Number](/Bit%20Manipulation/268.%20Missing%20Number.cpp)
+- [338. Counting Bits](/Bit%20Manipulation/338.%20Counting%20Bits.cpp)
+- [371. Sum of Two Integers](/Bit%20Manipulation/371.%20Sum%20of%20Two%20Integers.cpp)
+- [7. Reverse Integer](/Bit%20Manipulation/7.%20Reverse%20Integer.cpp)
 
 ## Graphs
 - [127. Word Ladder](/Graphs/127.%20Word%20Ladder.cpp)
