@@ -9,6 +9,7 @@
 - [Bit Manipulation](#bit-manipulation)
 - [Graphs](#graphs)
 - [Heap and Priority Queue](#heap-and-priority-queue)
+- [Intervals](#intervals)
 - [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
 - [Stacks](#stacks)
@@ -93,6 +94,13 @@
 - [621. Task Scheduler](/Heap%20and%20Priority%20Queue/621.%20Task%20Scheduler.cpp)
 - [703. Kth Largest Element in a Stream](/Heap%20and%20Priority%20Queue/703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp)
 - [973. K Closest Points to Origin](/Heap%20and%20Priority%20Queue/973.%20K%20Closest%20Points%20to%20Origin.cpp)
+
+## Intervals
+- [252. Meeting Rooms](/Intervals/252.%20Meeting%20Rooms.cpp)
+- [253. Meeting Rooms II](/Intervals/253.%20Meeting%20Rooms%20II.cpp)
+- [435. Non-overlapping Intervals](/Intervals/435.%20Non-overlapping%20Intervals.cpp)
+- [56. Merge Intervals](/Intervals/56.%20Merge%20Intervals.cpp)
+- [57. Insert Interval](/Intervals/57.%20Insert%20Interval.cpp)
 
 ## Linked List
 - [138. Copy List with Random Pointer](/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.cpp)
