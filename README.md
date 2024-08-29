@@ -8,6 +8,7 @@
 - [Binary Search](#binary-search)
 - [Bit Manipulation](#bit-manipulation)
 - [Graphs](#graphs)
+- [Greedy](#greedy)
 - [Heap and Priority Queue](#heap-and-priority-queue)
 - [Intervals](#intervals)
 - [Linked List](#linked-list)
@@ -86,6 +87,12 @@
 - [695. Max Area of Island](/Graphs/695.%20Max%20Area%20of%20Island.cpp)
 - [994. Rotting Oranges](/Graphs/994.%20Rotting%20Oranges.cpp)
 
+## Greedy
+- [134. Gas Station](/Greedy/134.%20Gas%20Station.cpp)
+- [45. Jump Game II](/Greedy/45.%20Jump%20Game%20II.cpp)
+- [53. Maximum Subarray](/Greedy/53.%20Maximum%20Subarray.cpp)
+- [55. Jump Game](/Greedy/55.%20Jump%20Game.cpp)
+
 ## Heap and Priority Queue
 - [1046. Last Stone Weight](/Heap%20and%20Priority%20Queue/1046.%20Last%20Stone%20Weight.cpp)
 - [215. Kth Largest Element in an Array](/Heap%20and%20Priority%20Queue/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)
@@ -96,6 +103,7 @@
 - [973. K Closest Points to Origin](/Heap%20and%20Priority%20Queue/973.%20K%20Closest%20Points%20to%20Origin.cpp)
 
 ## Intervals
+- [1851. Minimum Interval to Include Each Query](/Intervals/1851.%20Minimum%20Interval%20to%20Include%20Each%20Query.cpp)
 - [252. Meeting Rooms](/Intervals/252.%20Meeting%20Rooms.cpp)
 - [253. Meeting Rooms II](/Intervals/253.%20Meeting%20Rooms%20II.cpp)
 - [435. Non-overlapping Intervals](/Intervals/435.%20Non-overlapping%20Intervals.cpp)
