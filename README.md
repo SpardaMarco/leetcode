@@ -89,9 +89,13 @@
 
 ## Greedy
 - [134. Gas Station](/Greedy/134.%20Gas%20Station.cpp)
+- [1899. Merge Triplets to Form Target Triplet](/Greedy/1899.%20Merge%20Triplets%20to%20Form%20Target%20Triplet.cpp)
 - [45. Jump Game II](/Greedy/45.%20Jump%20Game%20II.cpp)
 - [53. Maximum Subarray](/Greedy/53.%20Maximum%20Subarray.cpp)
 - [55. Jump Game](/Greedy/55.%20Jump%20Game.cpp)
+- [678. Valid Parenthesis String](/Greedy/678.%20Valid%20Parenthesis%20String.cpp)
+- [763. Partition Labels](/Greedy/763.%20Partition%20Labels.cpp)
+- [846. Hand of Straights](/Greedy/846.%20Hand%20of%20Straights.cpp)
 
 ## Heap and Priority Queue
 - [1046. Last Stone Weight](/Heap%20and%20Priority%20Queue/1046.%20Last%20Stone%20Weight.cpp)
