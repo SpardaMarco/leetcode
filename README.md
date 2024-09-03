@@ -3,6 +3,7 @@
 ## Indice
 
 - [1-D Dynamic Programming](#1-d-dynamic-programming)
+- [Advanced Graphs](#advanced-graphs)
 - [Array and Hashing](#array-and-hashing)
 - [Backtracking](#backtracking)
 - [Binary Search](#binary-search)
@@ -31,6 +32,14 @@
 - [70. Climbing Stairs](/1-D%20Dynamic%20Programming/70.%20Climbing%20Stairs.cpp)
 - [746. Min Cost Climbing Stairs](/1-D%20Dynamic%20Programming/746.%20Min%20Cost%20Climbing%20Stairs.cpp)
 - [91. Decode Ways](/1-D%20Dynamic%20Programming/91.%20Decode%20Ways.cpp)
+
+## Advanced Graphs
+- [1584. Min Cost to Connect All Points](/Advanced%20Graphs/1584.%20Min%20Cost%20to%20Connect%20All%20Points.cpp)
+- [269. Alien Dictionary](/Advanced%20Graphs/269.%20Alien%20Dictionary.cpp)
+- [332. Reconstruct Itinerary](/Advanced%20Graphs/332.%20Reconstruct%20Itinerary.cpp)
+- [743. Network Delay Time](/Advanced%20Graphs/743.%20Network%20Delay%20Time.cpp)
+- [778. Swim in Rising Water](/Advanced%20Graphs/778.%20Swim%20in%20Rising%20Water.cpp)
+- [787. Cheapest Flights Within K Stops](/Advanced%20Graphs/787.%20Cheapest%20Flights%20Within%20K%20Stops.cpp)
 
 ## Array and Hashing
 - [1. Two Sum](/Array%20and%20Hashing/1.%20Two%20Sum.cpp)
