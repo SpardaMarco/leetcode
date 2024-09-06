@@ -3,6 +3,7 @@
 ## Indice
 
 - [1-D Dynamic Programming](#1-d-dynamic-programming)
+- [2-D Dynamic Programming](#2-d-dynamic-programming)
 - [Advanced Graphs](#advanced-graphs)
 - [Array and Hashing](#array-and-hashing)
 - [Backtracking](#backtracking)
@@ -13,6 +14,7 @@
 - [Heap and Priority Queue](#heap-and-priority-queue)
 - [Intervals](#intervals)
 - [Linked List](#linked-list)
+- [Math and Geometry](#math-and-geometry)
 - [Sliding Window](#sliding-window)
 - [Stacks](#stacks)
 - [Trees](#trees)
@@ -32,6 +34,19 @@
 - [70. Climbing Stairs](/1-D%20Dynamic%20Programming/70.%20Climbing%20Stairs.cpp)
 - [746. Min Cost Climbing Stairs](/1-D%20Dynamic%20Programming/746.%20Min%20Cost%20Climbing%20Stairs.cpp)
 - [91. Decode Ways](/1-D%20Dynamic%20Programming/91.%20Decode%20Ways.cpp)
+
+## 2-D Dynamic Programming
+- [10. Regular Expression Matching](/2-D%20Dynamic%20Programming/10.%20Regular%20Expression%20Matching.cpp)
+- [1143. Longest Common Subsequence](/2-D%20Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.cpp)
+- [115. Distinct Subsequences](/2-D%20Dynamic%20Programming/115.%20Distinct%20Subsequences.cpp)
+- [309. Best Time to Buy and Sell Stock with Cooldown](/2-D%20Dynamic%20Programming/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.cpp)
+- [312. Burst Balloons](/2-D%20Dynamic%20Programming/312.%20Burst%20Balloons.cpp)
+- [329. Longest Increasing Path in a Matrix](/2-D%20Dynamic%20Programming/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)
+- [494. Target Sum](/2-D%20Dynamic%20Programming/494.%20Target%20Sum.cpp)
+- [518. Coin Change II](/2-D%20Dynamic%20Programming/518.%20Coin%20Change%20II.cpp)
+- [62. Unique Paths](/2-D%20Dynamic%20Programming/62.%20Unique%20Paths.cpp)
+- [72. Edit Distance](/2-D%20Dynamic%20Programming/72.%20Edit%20Distance.cpp)
+- [97. Interleaving String](/2-D%20Dynamic%20Programming/97.%20Interleaving%20String.cpp)
 
 ## Advanced Graphs
 - [1584. Min Cost to Connect All Points](/Advanced%20Graphs/1584.%20Min%20Cost%20to%20Connect%20All%20Points.cpp)
@@ -135,6 +150,16 @@
 - [23. Merge k Sorted Lists](/Linked%20List/23.%20Merge%20k%20Sorted%20Lists.cpp)
 - [25. Reverse Nodes in k-Group](/Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group.cpp)
 - [287. Find the Duplicate Number](/Linked%20List/287.%20Find%20the%20Duplicate%20Number.cpp)
+
+## Math and Geometry
+- [2013. Detect Squares](/Math%20and%20Geometry/2013.%20Detect%20Squares.cpp)
+- [202. Happy Number](/Math%20and%20Geometry/202.%20Happy%20Number.cpp)
+- [43. Multiply Strings](/Math%20and%20Geometry/43.%20Multiply%20Strings.cpp)
+- [48. Rotate Image](/Math%20and%20Geometry/48.%20Rotate%20Image.cpp)
+- [50. Pow(x, n)](/Math%20and%20Geometry/50.%20Pow(x,%20n).cpp)
+- [54. Spiral Matrix](/Math%20and%20Geometry/54.%20Spiral%20Matrix.cpp)
+- [66. Plus One](/Math%20and%20Geometry/66.%20Plus%20One.cpp)
+- [73. Set Matrix Zeroes](/Math%20and%20Geometry/73.%20Set%20Matrix%20Zeroes.cpp)
 
 ## Sliding Window
 - [121. Best Time to Buy and Sell Stock](/Sliding%20Window/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
